@@ -8,4 +8,4 @@
 
 - Add command to run in data/commands. (per command per line)
 
-- Use username, password in data/auth.json to authen 
+- Use username, password in data/auth.json to authen webhook
