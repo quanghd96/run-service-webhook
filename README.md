@@ -3,7 +3,8 @@
 ## How to use
 
 ```
-    docker run -d -v path/data:/app/data -p 3000:3000 --name restart_service -it quanghd96/run-service-webhook
+    yarn
+    pm2 start --name run-service-webhook index.js
 ```
 
 - Add command to run in data/commands. (per command per line)
