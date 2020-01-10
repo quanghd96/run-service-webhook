@@ -2,6 +2,7 @@
 
 ## Required
 - NodeJS
+- Yarn
 - PM2
 
 ## How to use
