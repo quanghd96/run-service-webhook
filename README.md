@@ -1,5 +1,9 @@
 # Provice webhook to run command
 
+# Required
+- NodeJS
+- PM2
+
 ## How to use
 
 ```
